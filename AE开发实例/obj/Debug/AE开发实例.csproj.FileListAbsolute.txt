@@ -1,0 +1,14 @@
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\bin\Debug\AE开发实例.exe.config
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\bin\Debug\AE开发实例.exe
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\bin\Debug\AE开发实例.pdb
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\obj\Debug\AE开发实例.Form1.resources
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\obj\Debug\AE开发实例.Properties.Resources.resources
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\obj\Debug\AE开发实例.csproj.GenerateResource.Cache
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\obj\Debug\AE开发实例.exe
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\obj\Debug\AE开发实例.pdb
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\obj\Debug\AE开发实例.csprojResolveAssemblyReference.cache
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\bin\Debug\ESRI.ArcGIS.ADF.dll
+C:\Users\zjf01\Desktop\AE开发实例\AE开发实例\bin\Debug\ESRI.ArcGIS.ADF.xml
+D:\Code\CSharp\GIS程序设计\AE开发实例\bin\Debug\AE开发实例.exe.config
+D:\Code\CSharp\GIS程序设计\AE开发实例\obj\Debug\AE开发实例.exe
+D:\Code\CSharp\GIS程序设计\AE开发实例\obj\Debug\AE开发实例.pdb
